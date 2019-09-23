@@ -1,0 +1,15 @@
+.DottedBox {
+  margin: 50px;
+  border: 5px solid black;
+  padding: 30px;
+  border-width: thin;
+  width: 200px;
+  position: fixed;
+}
+
+button {
+  font-size: 20px;
+  text-align: center;
+}
+
+
